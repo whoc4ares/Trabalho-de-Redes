@@ -1,0 +1,13 @@
+utilizador:armindo
+password:comerfrango     
+admin
+
+
+utilizador:valentim
+password:cadeira     
+cliente
+
+
+ana patricio
+ana.patricio@espamol.pt
+password:123456
